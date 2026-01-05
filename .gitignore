@@ -1,7 +1,7 @@
 backend/node_modules
 backend/prisma
 
-backend/src
+backend/src/generated
 backend/eslint.config.js
 backend/yarn.lock
 backend/.env
